@@ -12,5 +12,5 @@ def overlap(p1,p2):
             return True
     else:
         return False
-print(overlap((1,5),(2,6)))
-print(overlap((1,5),(6,8)))
+# print(overlap((1,5),(2,6)))
+# print(overlap((1,5),(6,8)))
